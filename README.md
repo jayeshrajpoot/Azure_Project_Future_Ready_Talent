@@ -5,6 +5,9 @@ This repository is about my project which I'm doing under the Virtual internship
 #### Online Study Website link: https://gray-ocean-084cfd610.1.azurestaticapps.net/
 ### Youtube link for project Demonstartion
 https://youtu.be/IdLKwGkfuZo
+### Azure Portal Screenshot
+![image](https://user-images.githubusercontent.com/53878260/196444613-fecbf618-19e6-4edc-97df-557a3a697d73.png)
+
 ## Screenshots of the website
 ### Home page
 ![image](https://user-images.githubusercontent.com/53878260/195971953-b88d3a19-4d53-48d8-98db-7b8fca94e38c.png)
